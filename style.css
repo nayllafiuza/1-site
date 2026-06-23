@@ -7,4 +7,13 @@ body{
         }
         #html{
             color: rgb(255, 0, 162);
+
+        }
+
+        #curtidas{
+background-color: darkslategrey;
+color: aliceblue;
+padding:5px 10px 5px 10px;
+border: 2px solid
+border-radius: ;
         }
